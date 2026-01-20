@@ -4,4 +4,4 @@ Projeto estático inspirado no layout da Wikipedia, desenvolvido para fins de es
 
 Projeto educacional, sem afiliação com Wikipedia, Netflix ou detentores dos direitos. Conteúdo/imagens utilizados apenas para aprendizado.
 
-Segue link para a página: 
+Segue link para a página: https://eduardofernandes01.github.io/Projeto_Wikipedia_HTML.io/
