@@ -1,19 +1,10 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
-
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
-
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+**Título:** Recriando Wikipedia com conceitos de HTML semântico e um pouco de CSS
 
 
+Projeto estático inspirado no layout da Wikipedia, desenvolvido para fins de estudo e prática de HTML5 e CSS3. A página simula uma entrada enciclopédica sobre Stranger Things, com sidebar (Conteúdos) fixa/rolável, infobox lateral, tabelas, figures/figcaptions, e organização em CSS Grid.
+
+Projeto educacional, sem afiliação com Wikipedia, Netflix ou detentores dos direitos. Conteúdo/imagens utilizados apenas para aprendizado.
+
+Segue link para a página: 
